@@ -20,8 +20,9 @@ PKGS=(
     # UTILITIES -----------------------------------------------------------
 
     'i3lock-fancy'              # Screen locker
-    'synology-drive'            # Synology Drive
+    'vscodium-bin'              # VS Code no telemetics
     'freeoffice'                # Office Alternative
+    'thunar-shares-plugin-git'  # File Sharing
     
     # MEDIA ---------------------------------------------------------------
 
