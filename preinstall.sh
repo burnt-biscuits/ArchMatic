@@ -11,10 +11,11 @@ echo "-------------------------------------------------"
 echo "Setting up mirrors for optimal download - US Only"
 echo "-------------------------------------------------"
 timedatectl set-ntp true
+pacman -Sy
 pacman -S --noconfirm pacman-contrib
-mv /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
-curl -s "https://www.archlinux.org/mirrorlist/?country=US&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 - > /etc/pacman.d/mirrorlist
-
+pacman -S reflector rsync curl
+Now generate mirrorlist. Note: If you are not in the U.S. change "United States" to your own country.
+reflector --verbose --country 'United States' -l 5 --sort rate --save /etc/pacman.d/mirrorlist
 
 
 echo -e "\nInstalling prereqs...\n$HR"
