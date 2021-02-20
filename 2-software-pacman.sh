@@ -95,6 +95,7 @@ PKGS=(
     'celluloid'             # Video player
     'discord'               # Discord
     'deadbeef'              # DeadBeef Audio Player
+    'telegram-desktop'      # Telegram
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
