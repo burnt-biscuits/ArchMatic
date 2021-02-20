@@ -14,6 +14,7 @@ PKGS=(
     # SYSTEM --------------------------------------------------------------
 
     'linux-zen'             # Ryzen support kernel
+ #   'linux-lts'             # Long Term Support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
 
@@ -77,7 +78,6 @@ PKGS=(
     'gedit'                 # Text editor
     'clang'                 # C Lang compiler
     'cmake'                 # Cross-platform open-source make system
-    'code'                  # Visual Studio Code
     'electron'              # Cross-platform development using Javascript
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
@@ -93,6 +93,8 @@ PKGS=(
     'kdenlive'              # Movie Render
     'obs-studio'            # Record your screen
     'celluloid'             # Video player
+    'discord'               # Discord
+    'deadbeef'              # DeadBeef Audio Player
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
