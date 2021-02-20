@@ -13,7 +13,7 @@ PKGS=(
 
     # SYSTEM --------------------------------------------------------------
 
-    'linux-lts'             # Long term support kernel
+    'linux-zen'             # Ryzen support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
 
@@ -46,9 +46,7 @@ PKGS=(
     'zsh-completions'       # Tab completion for ZSH
 
     # DISK UTILITIES ------------------------------------------------------
-
-    'android-tools'         # ADB for Android
-    'android-file-transfer' # Android File Transfer
+    
     'autofs'                # Auto-mounter
     'btrfs-progs'           # BTRFS Support
     'dosfstools'            # DOS Support
@@ -56,7 +54,7 @@ PKGS=(
     'gparted'               # Disk utility
     'gvfs-mtp'              # Read MTP Connected Systems
     'gvfs-smb'              # More File System Stuff
-    'nautilus-share'        # File Sharing in Nautilus
+    'gvfs'                  # More File System Stuff
     'ntfs-3g'               # Open source implementation of NTFS file system
     'parted'                # Disk utility
     'samba'                 # Samba File Sharing
@@ -69,7 +67,7 @@ PKGS=(
     'flameshot'             # Screenshots
     'freerdp'               # RDP Connections
     'libvncserver'          # VNC Connections
-    'nautilus'              # Filesystem browser
+    'thunar'              # Filesystem browser
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
