@@ -68,10 +68,11 @@ PKGS=(
     'flameshot'             # Screenshots
     'freerdp'               # RDP Connections
     'libvncserver'          # VNC Connections
-    'thunar'              # Filesystem browser
+    'thunar'                # Filesystem browser
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
+    'filezilla'             # Filezilla FTP
 
     # DEVELOPMENT ---------------------------------------------------------
 
