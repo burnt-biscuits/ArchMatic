@@ -20,7 +20,6 @@ PKGS=(
     # UTILITIES -----------------------------------------------------------
 
     'i3lock-fancy'              # Screen locker
-    'vscodium-bin'              # VS Code no telemetics
     'freeoffice'                # Office Alternative
     'thunar-shares-plugin-git'  # File Sharing
     
@@ -31,7 +30,7 @@ PKGS=(
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'brave-nightly-bin'         # Brave
+    'waterfox-classic-bin'         #Waterfox
     
 
     # THEMES --------------------------------------------------------------
