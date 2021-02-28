@@ -13,8 +13,8 @@ PKGS=(
 
     # SYSTEM --------------------------------------------------------------
 
-    'linux-zen'             # Ryzen support kernel
- #   'linux-lts'             # Long Term Support kernel
+#   'linux-zen'             # Ryzen support kernel
+#   'linux-lts'             # Long Term Support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
 
@@ -22,7 +22,7 @@ PKGS=(
     'bleachbit'             # File deletion utility
     'cronie'                # cron jobs
     'curl'                  # Remote content retrieval
-    'file-roller'           # Archive utility
+    'file-roller'            # Archive utility
     'gtop'                  # System monitoring via terminal
     'gufw'                  # Firewall manager
     'hardinfo'              # Hardware info app
@@ -56,6 +56,7 @@ PKGS=(
     'gvfs-mtp'              # Read MTP Connected Systems
     'gvfs-smb'              # More File System Stuff
     'gvfs'                  # More File System Stuff
+    'tumbler'               # File Manager thumbnail viewer
     'ntfs-3g'               # Open source implementation of NTFS file system
     'parted'                # Disk utility
     'samba'                 # Samba File Sharing
@@ -72,7 +73,7 @@ PKGS=(
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
-    'filezilla'             # Filezilla FTP
+    'filezilla'              # Filezilla FTP
 
     # DEVELOPMENT ---------------------------------------------------------
 
