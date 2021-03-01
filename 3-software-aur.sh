@@ -30,7 +30,7 @@ PKGS=(
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'waterfox-classic-bin'         #Waterfox
+    'waterfox'                  #Waterfox
     
 
     # THEMES --------------------------------------------------------------
