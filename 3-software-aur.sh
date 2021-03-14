@@ -20,7 +20,8 @@ PKGS=(
     # UTILITIES -----------------------------------------------------------
 
     'i3lock-fancy'              # Screen locker
-    'freeoffice'                # Office Alternative
+    'freeoffice'                  # Office Alternative
+    'vscodium-bin'              # VSCodium
     'thunar-shares-plugin-git'  # File Sharing
     
     # MEDIA ---------------------------------------------------------------
