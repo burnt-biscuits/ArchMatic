@@ -19,19 +19,19 @@ PKGS=(
 
     # UTILITIES -----------------------------------------------------------
 
-    'i3lock-fancy'              # Screen locker
-    'freeoffice'                  # Office Alternative
-    'vscodium-bin'              # VSCodium
-    'thunar-shares-plugin-git'  # File Sharing
+    'i3lock-fancy'                  # Screen locker
+    'onlyoffice-bin'                # Office Alternative
+    'vscodium-bin'                  # VSCodium
+    'thunar-shares-plugin-git'      # Thunar File Sharing
     
     # MEDIA ---------------------------------------------------------------
 
-    'screenkey'                 # Screencast your keypresses
-    'lbry-app-bin'              # LBRY Linux Application
+    'screenkey'                     # Screencast your keypresses
+    'lbry-app-bin'                  # LBRY Linux Application
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'waterfox-g3-bin'                  #Waterfox
+    'waterfox-g3-bin'               #Waterfox
     
 
     # THEMES --------------------------------------------------------------
