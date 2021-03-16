@@ -98,6 +98,7 @@ PKGS=(
     'discord'               # Discord
     'deadbeef'              # DeadBeef Audio Player
     'telegram-desktop'      # Telegram
+    'signal-desktop'        # Signal Messenger app
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
