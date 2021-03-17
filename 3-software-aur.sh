@@ -28,6 +28,7 @@ PKGS=(
 
     'screenkey'                     # Screencast your keypresses
     'lbry-app-bin'                  # LBRY Linux Application
+    'pnmixer'                       # System tray volume control
 
     # COMMUNICATIONS ------------------------------------------------------
 
