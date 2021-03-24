@@ -22,7 +22,7 @@ PKGS=(
     'bleachbit'             # File deletion utility
     'cronie'                # cron jobs
     'curl'                  # Remote content retrieval
-    'file-roller'            # Archive utility
+    'file-roller'           # Archive utility
     'gtop'                  # System monitoring via terminal
     'gufw'                  # Firewall manager
     'hardinfo'              # Hardware info app
@@ -73,11 +73,12 @@ PKGS=(
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
-    'filezilla'              # Filezilla FTP
+    'filezilla'             # Filezilla FTP
+    'flashplugin'           # Flash
 
     # DEVELOPMENT ---------------------------------------------------------
 
-    'gedit'                 # Text editor
+    'mousepad'              # Text editor
     'clang'                 # C Lang compiler
     'cmake'                 # Cross-platform open-source make system
     'electron'              # Cross-platform development using Javascript
@@ -92,11 +93,10 @@ PKGS=(
 
     # MEDIA ---------------------------------------------------------------
 
-    'kdenlive'              # Movie Render
-    'obs-studio'            # Record your screen
+    'simplescreenrecorder'  # Record your screen
     'celluloid'             # Video player
     'discord'               # Discord
-    'deadbeef'              # DeadBeef Audio Player
+    'lollypop'              # Music Player
     'telegram-desktop'      # Telegram
     'signal-desktop'        # Signal Messenger app
     
@@ -108,6 +108,7 @@ PKGS=(
 
     # PRODUCTIVITY --------------------------------------------------------
 
+    'galculator'            # Gnome calculator
     'hunspell'              # Spellcheck libraries
     'hunspell-en'           # English spellcheck library
     'xpdf'                  # PDF viewer
