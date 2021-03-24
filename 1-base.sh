@@ -30,10 +30,6 @@ PKGS=(
         'polkit-gnome'          # Elevate Applications
         'lxappearance'          # Set System Themes
 
-    # --- Login Display Manager
-        'lightdm'                   # Base Login Manager
-        'lightdm-webkit2-greeter'   # Framework for Awesome Login Themes
-
     # --- Networking Setup
         'wpa_supplicant'            # Key negotiation for WPA wireless networks
         'dialog'                    # Enables shell scripts to trigger dialog boxex
@@ -50,13 +46,6 @@ PKGS=(
         'pavucontrol'       # Pulse Audio volume control
         'pnmixer'           # System tray volume control
 
-    # --- Bluetooth
-#        'bluez'                 # Daemons for the bluetooth protocol stack
-#        'bluez-utils'           # Bluetooth development and debugging utilities
-#        'bluez-firmware'        # Firmwares for Broadcom BCM203x and STLC2300 Bluetooth chips
-#        'blueberry'             # Bluetooth configuration tool
-#        'pulseaudio-bluetooth'  # Bluetooth support for PulseAudio
-    
     # --- Printers
         'cups'                  # Open source printer drivers
         'cups-pdf'              # PDF support for cups
