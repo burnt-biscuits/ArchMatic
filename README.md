@@ -30,6 +30,11 @@ cd ArchMatic
 ./1-base.sh
 ./2-software-pacman.sh
 ./3-software-aur.sh
+Depending on your installed video card 
+enable multilib before running video card scripts
+./amd-video-setup.sh
+./intel-video-setup.sh
+./nvidia-video-setup.sh
 ./9-post-setup.sh
 ```
 
@@ -38,7 +43,7 @@ cd ArchMatic
 ---
 
 ### System Description
-This runs Awesome Window Manager with the base configuration from the Material-Awesome project <https://github.com/burnt-biscuits/material-awesome>.
+This runs Awesome Window Manager with the base configuration from the Material-Awesome project https://github.com/burnt-biscuits/burnt-awesome.
 
 To boot I use `systemd` because it's minimalist, comes built-in, and since the Linux kernel has an EFI image, all we need is a way to execute it.
 
