@@ -1,6 +1,6 @@
 # ArchMatic Installer Script
 
-<img src="https://i.imgur.com/Yn29sze.png" />
+<img src="https://user-images.githubusercontent.com/78766134/109570434-a15ca180-7aaf-11eb-98a5-cd774fb9e48c.png" />
 
 This README contains the steps I do to install and configure a fully-functional Arch Linux installation containing a desktop environment, all the support packages (network, bluetooth, audio, printers, etc.), along with all my preferred applications and utilities. The shell scripts in this repo allow the entire process to be automated.)
 
