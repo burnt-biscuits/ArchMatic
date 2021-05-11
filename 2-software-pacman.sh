@@ -96,7 +96,7 @@ PKGS=(
     'simplescreenrecorder'  # Record your screen
     'celluloid'             # Video player
     'discord'               # Discord
-    'lollypop'              # Music Player
+    'clementine'            # Music Player
     'telegram-desktop'      # Telegram
     
     # GRAPHICS AND DESIGN -------------------------------------------------
