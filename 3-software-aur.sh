@@ -33,7 +33,6 @@ PKGS=(
     # COMMUNICATIONS ------------------------------------------------------
 
     'waterfox-g3-bin'               #Waterfox
-    'microsoft-edge-dev-bin'        #Microsoft Edge Browser
 
     # THEMES --------------------------------------------------------------
 
