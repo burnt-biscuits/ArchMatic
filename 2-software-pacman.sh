@@ -78,7 +78,7 @@ PKGS=(
 
     # DEVELOPMENT ---------------------------------------------------------
 
-    'mousepad'              # Text editor
+    'gedit'                 # Text editor
     'clang'                 # C Lang compiler
     'cmake'                 # Cross-platform open-source make system
     'electron'              # Cross-platform development using Javascript
@@ -98,7 +98,6 @@ PKGS=(
     'discord'               # Discord
     'lollypop'              # Music Player
     'telegram-desktop'      # Telegram
-    'signal-desktop'        # Signal Messenger app
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
