@@ -32,7 +32,8 @@ PKGS=(
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'waterfox-g3-bin'               #Waterfox
+    #'waterfox-g3-bin'               #Waterfox
+    'microsoft-edge-stable-bin'     #Microsoft Edge Stable
 
     # THEMES --------------------------------------------------------------
 
