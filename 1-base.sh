@@ -38,13 +38,15 @@ PKGS=(
         'network-manager-applet'    # System tray icon/utility for network connectivity
     
     # --- Audio
-        'alsa-utils'        # Advanced Linux Sound Architecture (ALSA) Components https://alsa.opensrc.org/
-        'alsa-plugins'      # ALSA plugins
-        'pulseaudio'        # Pulse Audio sound components
-        'pulseaudio-alsa'   # ALSA configuration for pulse audio
+ #       'alsa-utils'        # Advanced Linux Sound Architecture (ALSA) Components https://alsa.opensrc.org/
+ #       'alsa-plugins'      # ALSA plugins
+ #       'pulseaudio'        # Pulse Audio sound components
+ #       'pulseaudio-alsa'   # ALSA configuration for pulse audio
         'pavucontrol'       # Pulse Audio volume control
         'pnmixer'           # System tray volume control
-
+        'pipewire'          # Low-latency audio/video router and processor	
+        'pipewire-pulse'    # Low-latency audio/video router and processor - PulseAudio replacement
+        
     # --- Printers
         'cups'                  # Open source printer drivers
         'cups-pdf'              # PDF support for cups
