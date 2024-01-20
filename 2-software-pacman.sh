@@ -13,7 +13,7 @@ PKGS=(
 
     # SYSTEM --------------------------------------------------------------
 
-#   'linux-zen'             # Ryzen support kernel
+   'linux-zen'             # Ryzen support kernel
 #   'linux-lts'             # Long Term Support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
@@ -85,11 +85,6 @@ PKGS=(
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
     'glibc'                 # C libraries
-    'meld'                  # File/directory comparison
-    'nodejs'                # Javascript runtime environment
-    'npm'                   # Node package manager
-    'python'                # Scripting language
-    'yarn'                  # Dependency management (Hyper needs this)
 
     # MEDIA ---------------------------------------------------------------
 
