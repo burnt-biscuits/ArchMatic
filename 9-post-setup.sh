@@ -51,7 +51,7 @@ cp ${HOME}/.bash_profile /home/alarm/
 #echo "Updating /bin/startx to use the correct path"
 
 # By default, startx incorrectly looks for the .serverauth file in our HOME folder.
-#sudo sed -i 's|xserverauthfile=\$HOME/.serverauth.\$\$|xserverauthfile=\$XAUTHORITY|g' /bin/startx
+sudo sed -i 's|xserverauthfile=\$HOME/.serverauth.\$\$|xserverauthfile=\$XAUTHORITY|g' /bin/startx
 
 # ------------------------------------------------------------------------
 
