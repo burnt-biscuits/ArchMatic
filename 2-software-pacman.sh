@@ -13,7 +13,7 @@ PKGS=(
 
     # SYSTEM --------------------------------------------------------------
 
-   'linux-zen'             # Ryzen support kernel
+#  'linux-zen'             # Ryzen support kernel
 #   'linux-lts'             # Long Term Support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
