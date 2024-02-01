@@ -45,7 +45,7 @@ enable multilib before running video card scripts
 ### System Description
 This runs Awesome Window Manager with the base configuration from the Material-Awesome project https://github.com/burnt-biscuits/burnt-awesome.
 
-To boot I use `systemd` because it's minimalist, comes built-in, and since the Linux kernel has an EFI image, all we need is a way to execute it.
+To boot I use `non-systemd` because it's minimalist, comes built-in, and since the Linux kernel has an EFI image, all we need is a way to execute it.
 
 I also install the LTS Kernel along side the rolling one, and configure my bootloader to offer both as a choice during startup. This enables me to switch kernels in the event of a problem with the rolling one.
 
